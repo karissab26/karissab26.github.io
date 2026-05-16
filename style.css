@@ -1,0 +1,24 @@
+h1 {
+			color: #F4793D;
+			text-align: center;
+			Font-size: 90px;
+		}
+p, li, table {
+			font-size: 30px;
+		}
+a {
+			color: #F4793D;
+		}
+.container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	justify-items: center;
+	align-items: center;
+	padding: 3px;
+}
+
+#wandl {
+	table{
+	color: #FFFFFF;
+	}
+}
